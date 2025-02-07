@@ -51,3 +51,5 @@ function moveup() {
     redSquare.x += 30;
   }
 
+
+
